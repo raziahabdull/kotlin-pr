@@ -74,3 +74,4 @@ fun data(name:String,age:Int,number:String,weight:Double,kenyan:Boolean){
 
 
 
+
